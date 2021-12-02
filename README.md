@@ -1,1 +1,1 @@
-# Whack-a-mole JavaScript game
+# Whack-a-mole JavaScript Game
