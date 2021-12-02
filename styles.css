@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.unclickable {
+    pointer-events: none;
+}
+
 .score-container {
     display: flex;
     justify-content: space-around;
